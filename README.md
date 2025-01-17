@@ -79,6 +79,7 @@ INFERENCE_RUNS = 100    # 추론 시간 측정 반복 횟수
   <img src="https://github.com/user-attachments/assets/cac54be3-d1d5-4ff4-971a-7dc309f3d0b9" alt="Structured-Unstructured-Pruning">
 </div>
 실험 결과, Structured Pruning이 모델의 속도와 성능 모두에서 개선된 결과를 보여주었습니다. 구체적인 결과는 모델을 실행하면 확인할 수 있으며, 다음 정보들이 출력됩니다:  
+
 - 모델별 정확도  
 
 - 파라미터 수와 Sparsity
